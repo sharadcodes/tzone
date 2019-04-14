@@ -1,63 +1,63 @@
 @font-face {
   font-family: "IBM 3270 Narrow";
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/ibm.eot"); /* IE9 Compat Modes */
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/ibm.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ibm.otf") format("opentype"), /* Open Type Font */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ibm.svg") format("svg"), /* Legacy iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ibm.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ibm.woff") format("woff"), /* Modern Browsers */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ibm.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://sharadcodes.github.io/tzone/fonts/ibm.eot"); /* IE9 Compat Modes */
+  src: url("https://sharadcodes.github.io/tzone/fonts/ibm.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://sharadcodes.github.io/tzone/fonts/ibm.otf") format("opentype"), /* Open Type Font */
+    url("https://sharadcodes.github.io/tzone/fonts/ibm.svg") format("svg"), /* Legacy iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/ibm.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/ibm.woff") format("woff"), /* Modern Browsers */
+    url("https://sharadcodes.github.io/tzone/fonts/ibm.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Curved square";
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/cs.eot"); /* IE9 Compat Modes */
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/cs.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/cs.otf") format("opentype"), /* Open Type Font */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/cs.svg") format("svg"), /* Legacy iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/cs.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/cs.woff") format("woff"), /* Modern Browsers */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/cs.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://sharadcodes.github.io/tzone/fonts/cs.eot"); /* IE9 Compat Modes */
+  src: url("https://sharadcodes.github.io/tzone/fonts/cs.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://sharadcodes.github.io/tzone/fonts/cs.otf") format("opentype"), /* Open Type Font */
+    url("https://sharadcodes.github.io/tzone/fonts/cs.svg") format("svg"), /* Legacy iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/cs.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/cs.woff") format("woff"), /* Modern Browsers */
+    url("https://sharadcodes.github.io/tzone/fonts/cs.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Algol";
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/algol.eot"); /* IE9 Compat Modes */
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/algol.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/algol.otf") format("opentype"), /* Open Type Font */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/algol.svg") format("svg"), /* Legacy iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/algol.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/algol.woff") format("woff"), /* Modern Browsers */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/algol.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://sharadcodes.github.io/tzone/fonts/algol.eot"); /* IE9 Compat Modes */
+  src: url("https://sharadcodes.github.io/tzone/fonts/algol.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://sharadcodes.github.io/tzone/fonts/algol.otf") format("opentype"), /* Open Type Font */
+    url("https://sharadcodes.github.io/tzone/fonts/algol.svg") format("svg"), /* Legacy iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/algol.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/algol.woff") format("woff"), /* Modern Browsers */
+    url("https://sharadcodes.github.io/tzone/fonts/algol.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Lazenby Computer";
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/lc.eot"); /* IE9 Compat Modes */
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/lc.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/lc.otf") format("opentype"), /* Open Type Font */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/lc.svg") format("svg"), /* Legacy iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/lc.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/lc.woff") format("woff"), /* Modern Browsers */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/lc.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://sharadcodes.github.io/tzone/fonts/lc.eot"); /* IE9 Compat Modes */
+  src: url("https://sharadcodes.github.io/tzone/fonts/lc.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://sharadcodes.github.io/tzone/fonts/lc.otf") format("opentype"), /* Open Type Font */
+    url("https://sharadcodes.github.io/tzone/fonts/lc.svg") format("svg"), /* Legacy iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/lc.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/lc.woff") format("woff"), /* Modern Browsers */
+    url("https://sharadcodes.github.io/tzone/fonts/lc.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Alien Encounters";
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/ae.eot"); /* IE9 Compat Modes */
-  src: url("https://sharadcodes.github.io/tzone/docs/fonts/ae.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ae.otf") format("opentype"), /* Open Type Font */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ae.svg") format("svg"), /* Legacy iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ae.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ae.woff") format("woff"), /* Modern Browsers */
-    url("https://sharadcodes.github.io/tzone/docs/fonts/ae.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://sharadcodes.github.io/tzone/fonts/ae.eot"); /* IE9 Compat Modes */
+  src: url("https://sharadcodes.github.io/tzone/fonts/ae.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://sharadcodes.github.io/tzone/fonts/ae.otf") format("opentype"), /* Open Type Font */
+    url("https://sharadcodes.github.io/tzone/fonts/ae.svg") format("svg"), /* Legacy iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/ae.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://sharadcodes.github.io/tzone/fonts/ae.woff") format("woff"), /* Modern Browsers */
+    url("https://sharadcodes.github.io/tzone/fonts/ae.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
